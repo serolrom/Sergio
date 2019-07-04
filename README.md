@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Hi there!
+
+My name is Sergio Oliva. In the world of aviation and simulation I use Glide Brick as my nickname.
 
 You can use the [editor on GitHub](https://github.com/serolrom/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
