@@ -2,6 +2,13 @@
 
 My name is Sergio Oliva. In the world of aviation and simulation I use Glide Brick as my nickname.
 
+... and I'm currently after my ULM license. 
+
+Hobbies  
+- Guitar (I have one electric and one acoustic guitar, but my skills got rusty long ago)  
+- Photography  
+- Cockpit gaming (meaning that, besides flight simulation, I also play other games, but most if not all of them involve some kind of driving, piloting, sailing or whatever vehicle that can be virtually handled)
+
 You can use the [editor on GitHub](https://github.com/serolrom/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
