@@ -7,7 +7,7 @@ This is my naive attempt to have presence in the web in the form of a 'home page
 
 I guess there is no point of having a personal website if it doesn't say a thing about me, so...  
 
-_I'm a happy husband (not many can say), in my forty-something (and quite  father of three (am I entitled to feel as some kind of super hero?), living and working in [Madrid](https://goo.gl/maps/fJrff5frWsmPysM16) and currently getting my [ULM](https://en.wikipedia.org/wiki/Tecnam_P2002_Sierra) license. In summary, I'm not rich, but overall I can't complain, it's fairly good to be me._
+_I'm a happy husband (not many can say), in my forty-something (while by no means athletic, I admit to being satisfied with my looks), father of three (am I entitled to feel as some kind of super hero?), living and working in [Madrid](https://goo.gl/maps/fJrff5frWsmPysM16) and currently getting my [ULM](https://en.wikipedia.org/wiki/Tecnam_P2002_Sierra) license. In summary, I'm not rich, but overall I can't complain, it's fairly good to be me._
 
 Still something tells me this is not enough for you to get an idea about _who_ am I. Well, as they say, _tell me what are your hobbies and i'll tell you who you are_.
 
