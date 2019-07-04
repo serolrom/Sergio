@@ -4,7 +4,8 @@ My name is Sergio Oliva. In the world of aviation and simulation I use Glide Bri
 This is my naive attempt to have presence in the web in the form of a 'home page' where I can point my social media.
 
 ### About me  
-I guess there is no point of having a personal website if it doesn't say a thing about me, so here it is my self-description 
+I guess there is no point of having a personal website if it doesn't say a thing about me, so...  
+I'm a happy husband and father of three, living and working in Madrid -Spain-, 
 
 
 
@@ -21,6 +22,12 @@ I've had a good number of them. I'm the kind that gets hooked by almost anything
 - Archery; I used to have a [compound bow](https://en.wikipedia.org/wiki/Compound_bow) and went to a club with friends.
 - Photography. Yes, not only can I point and shoot, I can do it with a reflex in full-manual mode and get pic I want the way I want. I currently own a [Canon EOS 50D](https://en.wikipedia.org/wiki/Canon_EOS_50D). I can then process my photographs to a good extent in Photoshop. I sometimes use this skill to paint liveries for flight simulators planes.
 - Cockpit gaming; meaning that, besides flight simulation, I also play other games, but most if not all of them involve some kind of driving, piloting, sailing or whatever vehicle that can be virtually handled.
+
+### Social media  
+
+In fact, you probably arrived here from one of these:
+
+Facebook. No, I don't have Facebook. I used to, but I hated it, and one day I found the courage to delete my account for good. I was glad to find I did't get erased from the universe. I got so happy that I ended up **deleting my Whatsapp** too!
 
 ### Markdown
 
