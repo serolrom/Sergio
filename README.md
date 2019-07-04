@@ -7,7 +7,7 @@ This is my naive attempt to have presence in the web in the form of a 'home page
 
 I guess there is no point of having a personal website if it doesn't say a thing about me, so...  
 
-_I'm a happy husband (not many can say), father of three (am I entitled to feel as some kind of super hero?), living and working in [Madrid](https://goo.gl/maps/fJrff5frWsmPysM16) and currently getting my [ULM](https://en.wikipedia.org/wiki/Tecnam_P2002_Sierra) license._
+_I'm a happy husband (not many can say), in my forty-something (and quite  father of three (am I entitled to feel as some kind of super hero?), living and working in [Madrid](https://goo.gl/maps/fJrff5frWsmPysM16) and currently getting my [ULM](https://en.wikipedia.org/wiki/Tecnam_P2002_Sierra) license. In summary, I'm not rich, but overall I can't complain, it's fairly good to be me._
 
 Still something tells me this is not enough for you to get an idea about _who_ am I. Well, as they say, _tell me what are your hobbies and i'll tell you who you are_.
 
@@ -21,6 +21,8 @@ I've had a good number of them. I'm the kind that gets hooked by almost anything
 - **Archery**; I used to have a [compound bow](https://en.wikipedia.org/wiki/Compound_bow) and went to an archery club with friends.
 - **Photography**. Yes, not only can I point and shoot, I can do it with a reflex in full-manual mode and get pic I want the way I want. I currently own a [Canon EOS 50D](https://en.wikipedia.org/wiki/Canon_EOS_50D). I can then process my photographs to a good extent in Photoshop. I sometimes use this skill to paint liveries for flight simulators planes.
 - **Cockpit gaming**; meaning that, besides flight simulation, I also play other games, but most if not all of them involve some kind of driving, piloting, sailing or whatever vehicle that can be virtually handled.
+- **Zen meditation**; though I've only been relatively successful at it.
+- **Writing**; they say a man has to do three things in life, and one of them is to write a book. I have attempted it more than twice, but I', still struggling. Blogging, journalling and other forms of writing have not really been much more successful for me. But hey, I'm still in my mid-forties and I still expect I can do it.
 - **A few more I'll be including**... sometime.
 
 ### Social media  
