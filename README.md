@@ -35,4 +35,16 @@ In fact, you probably arrived here from one of these:
 
 In addition to the above social media channels, you can reach me by e-mail. Just use my nickname without blanks and send it to gmail. Same goes for my personal mail account. I promise I'll do my best to separate you from the spam and answer!
 
+## What's next
+
+Enough for a 'home page'. Next is (that is, there _will_ be) a link pointing to some more content. I found that blogs don't work for me, so I'll post whatever content I feel like publishing, not necessarily fitting tags like _blog, journal, gallery_, etc...
+
+
+Thanks for dropping by!
+_Sergio_
+
+_This entry was last modified on 2019-07-04_
+_All rights reserved_
+
+
 
