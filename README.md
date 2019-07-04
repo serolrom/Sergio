@@ -7,7 +7,7 @@ This is my naive attempt to have presence in the web in the form of a 'home page
 I guess there is no point of having a personal website if it doesn't say a thing about me, so...  
 I'm a happy husband (not many can say), father of three (am I entitled to feel as some kind of super hero?), living and working in [Madrid](https://goo.gl/maps/fJrff5frWsmPysM16) and currently getting my [ULM](https://en.wikipedia.org/wiki/Tecnam_P2002_Sierra) license.
 
-<a href="goo.gl/maps/fJrff5frWsmPysM16" target="_blank">Madrid</a>
+<a href="https://goo.gl/maps/fJrff5frWsmPysM16" target="_blank">Madrid2</a>
 
 
 
