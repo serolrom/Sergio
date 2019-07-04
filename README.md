@@ -10,17 +10,17 @@ I guess there is no point of having a personal website if it doesn't say a thing
 
 ... and I'm currently after my ULM license. 
 
-... these are my ...
+... these are my ...  
 
 ### Hobbies  
-- Have I already mentioned **Aviation**?
-- Guitar (I have one electric and one acoustic guitar, but my skills went rusty long ago)  
-- Photography  
-- Cockpit gaming (meaning that, besides flight simulation, I also play other games, but most if not all of them involve some kind of driving, piloting, sailing or whatever vehicle that can be virtually handled)
 
-You can use the [editor on GitHub](https://github.com/serolrom/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I've had a good number of them. I'm the kind that gets hooked by almost anything that hides some mistery that can be unveiled with practice, study and improvement. Some of them have lasted along the years. Some other were just temporary. But all of these have been important for me at some point.  No particular order.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Have I already mentioned **Aviation**? This has been my deepest obsession ever, and at my mid-forties, I'm so happy to be able to practice it both simulated and the real deal.
+- Guitar; I have one electric and one acoustic guitar, but my skills went rusty long ago.  
+- Archery; I used to have a [compound bow](https://en.wikipedia.org/wiki/Compound_bow) and went to a club with friends.
+- Photography. Yes, not only can I point and shoot, I can do it with a reflex in full-manual mode and get pic I want the way I want. I currently own a [Canon EOS 50D](https://en.wikipedia.org/wiki/Canon_EOS_50D). I can then process my photographs to a good extent in Photoshop. I sometimes use this skill to paint liveries for flight simulators planes.
+- Cockpit gaming; meaning that, besides flight simulation, I also play other games, but most if not all of them involve some kind of driving, piloting, sailing or whatever vehicle that can be virtually handled.
 
 ### Markdown
 
