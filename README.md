@@ -5,7 +5,7 @@ This is my naive attempt to have presence in the web in the form of a 'home page
 
 ### About me  
 I guess there is no point of having a personal website if it doesn't say a thing about me, so...  
-I'm a happy husband and father of three, living and working in Madrid -Spain-, 
+I'm a happy husband (not many can say), father of three (am I entitled to feel as some kind of super hero?), living and working in [Madrid](https://goo.gl/maps/fJrff5frWsmPysM16) and currently getting my [ULM](https://en.wikipedia.org/wiki/Tecnam_P2002_Sierra) license.
 
 
 
@@ -27,7 +27,9 @@ I've had a good number of them. I'm the kind that gets hooked by almost anything
 
 In fact, you probably arrived here from one of these:
 
-Facebook. No, I don't have Facebook. I used to, but I hated it, and one day I found the courage to delete my account for good. I was glad to find I did't get erased from the universe. I got so happy that I ended up **deleting my Whatsapp** too!
+- Twitter
+- Instagram
+- **Facebook**. Err... No, I don't have Facebook. I used to, but I hated it, and one day I found the courage to delete my account for good. I was glad to find I did't get erased from the universe. I got so happy that I ended up **deleting my Whatsapp** too!
 
 ### Markdown
 
