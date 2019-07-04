@@ -1,11 +1,20 @@
 ## Hi there!
 
 My name is Sergio Oliva. In the world of aviation and simulation I use Glide Brick as my nickname.
+This is my naive attempt to have presence in the web in the form of a 'home page' where I can point my social media.
+
+### About me  
+I guess there is no point of having a personal website if it doesn't say a thing about me, so here it is my self-description 
+
+
 
 ... and I'm currently after my ULM license. 
 
-Hobbies  
-- Guitar (I have one electric and one acoustic guitar, but my skills got rusty long ago)  
+... these are my ...
+
+### Hobbies  
+- Have I already mentioned **Aviation**?
+- Guitar (I have one electric and one acoustic guitar, but my skills went rusty long ago)  
 - Photography  
 - Cockpit gaming (meaning that, besides flight simulation, I also play other games, but most if not all of them involve some kind of driving, piloting, sailing or whatever vehicle that can be virtually handled)
 
