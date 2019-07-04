@@ -27,38 +27,8 @@ I've had a good number of them. I'm the kind that gets hooked by almost anything
 
 In fact, you probably arrived here from one of these:
 
-- Twitter
-- Instagram
-- **Facebook**. Err... No, I don't have Facebook. I used to, but I hated it, and one day I found the courage to delete my account for good. I was glad to find I did't get erased from the universe. I got so happy that I ended up **deleting my Whatsapp** too!
+- [Glide Brick's Twitter](https://twitter.com/GlideBrick). Oh, I also have a ['personal' Twitter account](https://twitter.com/serolrom), but it's not nearly as interesting as Glide Brick's one.
+- [Glide Brick's Instagram]
+- **Facebook**. Err... No, I don't have Facebook. I used to, but I hated it, and one day I found the courage to **delete my account** for good. I was glad to find I did't get erased from the universe. I got so happy that I ended up **deleting my Whatsapp** too!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/serolrom/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
