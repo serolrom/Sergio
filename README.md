@@ -40,10 +40,10 @@ In addition to the above social media channels, you can reach me by e-mail. Just
 Enough for a 'home page'. Next is (that is, there _will_ be) a link pointing to some more content. I found that blogs don't work for me, so I'll post whatever content I feel like publishing, not necessarily fitting tags like _blog, journal, gallery_, etc...
 
 
-Thanks for dropping by!
-_Sergio_
+Thanks for dropping by!  
+_Sergio_    
 
-_This entry was last modified on 2019-07-04_
+_This entry was created using GitHub Pages, last modified on 2019-07-04_  
 _All rights reserved_
 
 
