@@ -39,15 +39,15 @@ In addition to the above social media channels, you can reach me by e-mail. Just
 
 ### What's next
 
-Enough for a 'home page'. Next is (that is, there _will_ be) a link pointing to some more content. I found that blogs don't work for me, so I'll post whatever content I feel like publishing, not necessarily fitting tags like _blog, journal, gallery_, etc...
+Enough for a 'home page'. I'll include here a link pointing to some more content (when such content exist). I found that blogs don't work for me, so I'll post whatever content I feel like publishing, not necessarily fitting tags like _blog, journal, gallery_, etc...
 
 
 Thanks for dropping by!  
 _Sergio_    
 
 <p align="center">
-This entry was created using GitHub Pages, last modified on 2019-07-04
-<br>2019 Copyright. All rights reserved
+This entry was created using GitHub Pages, last modified on 2019-07-04.
+<br>2019 Copyright. All rights reserved.
 </p>
 
 
