@@ -47,7 +47,7 @@ _Sergio_
 
 <p align="center">
 This entry was created using GitHub Pages, last modified on 2019-07-04
-<br>(c)2019 - All rights reserved
+<br>2019 Copyright. All rights reserved
 </p>
 
 
