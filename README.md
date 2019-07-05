@@ -45,7 +45,7 @@ Enough for a 'home page'. Next is (that is, there _will_ be) a link pointing to 
 Thanks for dropping by!  
 _Sergio_    
 
-<p align="center" size="24">
+<p align="center">
 This entry was created using GitHub Pages, last modified on 2019-07-04
 <br>(c)2019 - All rights reserved
 </p>
