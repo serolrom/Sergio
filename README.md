@@ -19,7 +19,7 @@ I've had a good number of them. I'm the kind that gets hooked by almost anything
 - **Guitar**; I have one electric and one acoustic guitar, but my skills went rusty long ago.  
 - **Motorbikes**; I had my first bike at the age of 10 or so. I've had nearly 20 different bikes until the birth of my first kid on 2010. That's roughly 35 years biking. And when I say biking, I mean most of that time I didn't even have a car. My bike was a way of life.  
 - **Archery**; I used to have a [compound bow](https://en.wikipedia.org/wiki/Compound_bow) and went to an archery club with friends.
-- **Photography**. Yes, not only can I point and shoot, I can do it with a reflex in full-manual mode and get pic I want the way I want. I currently own a [Canon EOS 50D](https://en.wikipedia.org/wiki/Canon_EOS_50D). I can then process my photographs to a good extent in Photoshop. I sometimes use this skill to paint liveries for flight simulators planes.
+- **Photography**. Yes, not only can I point and shoot, I can do it with a reflex in full-manual mode and get the pic I want, the way I want. I currently own a [Canon EOS 50D](https://en.wikipedia.org/wiki/Canon_EOS_50D). I can then process my photographs to a good extent in Photoshop. I sometimes use this skill to paint liveries for flight simulators planes.
 - **Cockpit gaming**; meaning that, besides flight simulation, I also play other games, but most if not all of them involve some kind of driving, piloting, sailing or whatever vehicle that can be virtually handled.
 - **Zen meditation**; though I've only been relatively successful at it.
 - **Writing**; they say a man has to do three things in life, and one of them is to write a book. I have attempted it more than twice, but I', still struggling. Blogging, journalling and other forms of writing have not really been much more successful for me. But hey, I'm still in my mid-forties and I still expect I can do it.
@@ -45,8 +45,10 @@ Enough for a 'home page'. Next is (that is, there _will_ be) a link pointing to 
 Thanks for dropping by!  
 _Sergio_    
 
-_This entry was created using GitHub Pages, last modified on 2019-07-04_  
-_All rights reserved_
+<p align="center">
+This entry was created using GitHub Pages, last modified on 2019-07-04
+<br>(c)2019 - All rights reserved
+</p>
 
 
 
