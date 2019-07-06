@@ -5,7 +5,7 @@ This is my naive attempt to have presence in the web in the form of a 'home page
 
 ### About me  
 
-I guess there is no point of having a personal website if it doesn't say a thing about me, so here we go...  
+I guess there is no point on having a personal website if it doesn't say a thing about me, so here we go...  
 
 _I'm a happy husband (that's something not everybody can say), in my forty-something (while by no means athletic, I admit to being satisfied with my looks), father of three (am I entitled to feel as some kind of super hero?), living and working in [Madrid](https://goo.gl/maps/fJrff5frWsmPysM16) and currently getting my [ULM](https://en.wikipedia.org/wiki/Tecnam_P2002_Sierra) license. In summary, I'm not rich, but overall I can't complain, it's fairly good to be me._
 
