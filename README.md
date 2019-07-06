@@ -1,5 +1,3 @@
----
-
 ## Hi there!
 
 My name is **Sergio Oliva**. In the world of aviation and simulation I use **Glide Brick** as my nickname.
@@ -46,8 +44,6 @@ Enough for a 'home page'. I'll include here a link pointing to some more content
 
 Thanks for dropping by!  
 _Sergio_    
-
---- 
 
 <p align="center">
 This entry was created using GitHub Pages, last modified on 2019-07-04.
