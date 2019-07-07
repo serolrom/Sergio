@@ -36,7 +36,7 @@ In fact, you probably arrived here from one of these:
 
 ### Contact me
 
-In addition to the above social media channels, you can reach me by e-mail. Just use my nickname without blanks and send it to gmail. Same goes for my personal mail account. I promise I'll do my best to separate you from the spam and answer!
+In addition to the above social media channels, you can reach me by e-mail. Just put my first and last name together and send it to Gmail. Same with my nickname. Drop me a line any time!
 
 ### What's next
 
