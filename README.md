@@ -31,7 +31,7 @@ I've had a good number of them. I'm the kind that gets hooked by almost anything
 In fact, you probably arrived here from one of these:
 
 - **[Glide Brick's Twitter](https://twitter.com/GlideBrick)**. Oh, I also have a ['personal' Twitter account](https://twitter.com/serolrom), but it's not nearly as interesting as Glide Brick's one.
-- **[Glide Brick's Instagram](https://www.instagram.com/glidebrick/)**. Yep, there's also a personal instagram, [here](https://www.instagram.com/serolrom/).
+- **[Glide Brick's Instagram](https://www.instagram.com/glidebrick/)**. Yep, there's also a personal instagram, [here](https://www.instagram.com/top_gun_powah/).
 - **Facebook**. Err... No, I don't have Facebook. I used to, but I hated it, and one day I found the courage to **delete my account** for good. I was glad to find I did't get erased from the universe. I got so happy that I ended up **deleting my Whatsapp** too!
 
 ### Contact me
@@ -47,7 +47,7 @@ Thanks for dropping by!
 _Sergio_    
 
 <p align="center">
-This entry was created using GitHub Pages, last modified on 2019-07-04.
+This entry was created using GitHub Pages, last modified on 2019-07-07.
 <br>2019 Copyright. All rights reserved.
 </p>
 
