@@ -16,9 +16,9 @@ This is surely not enough for you to get an idea about _who_ am I. Well, as they
 I've had a good number of them. I'm the kind that gets hooked by almost anything that hides some mistery that can be unveiled with practice, study and improvement. Some of them have lasted along the years. Some other were just temporary. But all of these have been important for me at some point.  No particular order.
 
 - Have I already mentioned **Aviation**? This has been my deepest obsession ever, and at my mid-forties, I'm so happy to be able to practice it both simulated and the real deal.
-- **Guitar**; I have one electric and one acoustic guitar, but my skills went rusty long ago.  
+- **Guitar**; I have one [electric](https://www.instagram.com/p/kh5hCTHe7_/) and one [acoustic](https://www.instagram.com/p/MoEmFMne6k/) guitar, but my skills went rusty long ago. Not that I've ever been really good at it, but I've enjoyed them for quite some time.
 - **Motorbikes**; I had my first bike at the age of 10 or so. I've had nearly 20 different bikes until the birth of my first kid on 2010. That's roughly 35 years biking. And when I say biking, I mean most of that time I didn't even have a car. My bike was a way of life.  
-- I'm a qualified **dog trainer**. Got my certificate working with Mara, my West Highland White Terrier. She did great. Rest in peace. I also have a Belgiand Shepperd, Judy. She's awesome too.
+- I'm a qualified **dog trainer**. Got my trainer certificate working with Mara, my West Highland White Terrier. She did great. Rest in peace. I also have a Belgiand Shepperd, Judy. She's awesome. [Both](https://www.instagram.com/p/NouNMyne_7/) are.
 - **Archery**; I used to have a [compound bow](https://en.wikipedia.org/wiki/Compound_bow) and went to an archery club with friends.
 - **Photography**. Yes, not only can I point and shoot, I can do it with a reflex in full-manual mode and get the pic I want, the way I want. I currently own a [Canon EOS 50D](https://en.wikipedia.org/wiki/Canon_EOS_50D). I can then process my photographs to a good extent in Photoshop. I sometimes use this skill to paint liveries for flight simulators planes.
 - **Cockpit gaming**; meaning that, besides flight simulation, I also play other games, but most if not all of them involve some kind of driving, piloting, sailing or whatever vehicle that can be virtually handled.
