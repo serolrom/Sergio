@@ -7,8 +7,12 @@ assignees: ''
 
 ---
 
-[Back to index](https://github.com/serolrom/Sergio/issues)
+[Blog index](https://github.com/serolrom/Sergio/issues) || [Back to home page](http://glidebrick.com/)  
 
 Content here
 
-[Back to index](https://github.com/serolrom/Sergio/issues)
+[Blog index](https://github.com/serolrom/Sergio/issues) || [Back to home page](http://glidebrick.com/)  
+
+<p align="center">
+<br>2020 Copyright. All rights reserved.
+</p>
