@@ -30,6 +30,10 @@ I've had a good number of them. I'm the kind that gets hooked by almost anything
 - **Writing**; they say a man has to do three things in life, and one of them is to write a book. I have attempted it more than twice, and I'm, still struggling. Blogging, journalling and other forms of writing have not really been much more successful for me. But hey, I'm still in my mid-forties and I still expect I can do it.
 - **A few more I'll be including**... sometime.
 
+### Social  
+
+- Mastodon: https://mastodon.social/web/@top_gun_powah
+
 ### Contact me
 
 You can reach me by e-mail. Just put my first and last name together and send it to Gmail. Same with my github nickname. Drop me a line any time!
