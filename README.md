@@ -32,7 +32,7 @@ I've had a good number of them. I'm the kind that gets hooked by almost anything
 
 ### Social  
 
-- Mastodon: https://mastodon.social/web/@top_gun_powah
+- Mastodon: https://mastodon.social/@top_gun_powah
 
 ### Contact me
 
