@@ -1,7 +1,7 @@
 ## Hi there!
 
 My name is **Sergio Oliva**. 
-This is my attempt to have presence in the web in the form of a 'home page' where I can point my social media and host some other content.
+This is my attempt to have presence in the web in the form of a 'home page'.
 
 ### About me  
 
