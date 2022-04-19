@@ -7,7 +7,10 @@ This is my attempt to have presence in the web in the form of a 'home page' wher
 
 I guess there is no point on having a personal website if it doesn't say a thing about me, so here we go...  
 
-_I'm a happy husband (that's something not everybody can say), in my forty-something (while by no means athletic, I admit to being satisfied with my looks), father of three (am I entitled to feel as some kind of super hero?), living and working in [Madrid](https://goo.gl/maps/fJrff5frWsmPysM16) and currently getting my [ULM](https://en.wikipedia.org/wiki/Tecnam_P2002_Sierra) license. In summary, I'm not rich, but overall I can't complain, it's fairly good to be me._
+I'm a happy husband (that's something not everybody can say).  
+I'm my forty-something; while by no means athletic, I admit to being satisfied with my looks. 
+Father of three (am I entitled to feel as some kind of super hero?). 
+I'm not rich, but overall I can't complain, it's fairly good to be me.
 
 This is surely not enough for you to get an idea about _who_ am I. Well, as they say, _tell me what are your hobbies and i'll tell you who you are_.
 
@@ -15,7 +18,7 @@ This is surely not enough for you to get an idea about _who_ am I. Well, as they
 
 I've had a good number of them. I'm the kind that gets hooked by almost anything that hides some mistery that can be unveiled with practice, study and improvement. Some of them have lasted along the years. Some other were just temporary. But all of these have been important for me at some point.  No particular order.
 
-- Have I already mentioned **Aviation**? This has been my deepest obsession ever, and at my mid-forties, I'm so happy to be able to practice it both simulated and the real deal.
+- **Aviation** has been my deepest obsession ever. I'm so happy to be able to practice both the real deal (I have my [ULM](https://en.wikipedia.org/wiki/Tecnam_P2002_Sierra) license) and simulation.
 - **Guitar**; I have one [electric](https://www.instagram.com/p/kh5hCTHe7_/) and one [acoustic](https://www.instagram.com/p/MoEmFMne6k/) guitar, but my skills went rusty long ago. Not that I've ever been really good at it, but I've enjoyed them for quite some time.
 - **Motorbikes**; I had my first bike at the age of 10 or so. I've had nearly 20 different bikes until the birth of my first kid on 2010. That's roughly 35 years biking. And when I say biking, I mean most of that time I didn't even have a car. My bike was a way of life.  
 - I'm a qualified **dog trainer**. Got my trainer certificate working with Mara, my West Highland White Terrier. She did great. Rest in peace. I also have a Belgiand Shepperd, Judy. She's awesome. [Both](https://www.instagram.com/p/NouNMyne_7/) are.
