@@ -10,7 +10,7 @@ I guess there is no point on having a personal website if it doesn't say a thing
 I'm a happy husband (that's something not everybody can say).  
 I'm my forty-something; while by no means athletic, I admit to being satisfied with my looks.  
 Father of three (am I entitled to feel as some kind of super hero?).  
-I live and work in Madrid.  
+I live and work in Madrid, Spain.  
 Overall I can't complain, it's fairly good to be me.  
 
 This is surely not enough for you to get an idea about _who_ am I. Well, as they say, _tell me what are your hobbies and i'll tell you who you are_.
