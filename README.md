@@ -43,8 +43,8 @@ Thanks for dropping by!
 _Sergio_    
 
 <p align="center">
-This entry was created using GitHub Pages, last modified on 2019-07-07.
-<br>2019 Copyright. All rights reserved.
+This entry was created using GitHub Pages, last modified on 2022-04-19.
+<br>2022 Copyright. All rights reserved.
 </p>
 
 
